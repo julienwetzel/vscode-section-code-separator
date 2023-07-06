@@ -1,0 +1,18 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore .vsix files (the packaged extension)
+*.vsix
+
+# Ignore the output of the TypeScript compiler
+out/
+
+# Ignore all log files
+*.log
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
+
+# Ignore TypeScript cache
+*.tsbuildinfo
