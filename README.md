@@ -1,6 +1,6 @@
-# Title-comment README
+# Section Code Separator
 
-Séparateur de code avec des commentaires
+Créer des sections de code avec des commentaires spécifiques dans VS Code
 
 ## Description
 
